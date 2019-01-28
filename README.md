@@ -1,5 +1,5 @@
-- Committer: Apache Spark
-- Committer: Apache ORC
-- Committer and PMC Member: Apache REEF
-- Contributor: Google TensorFlow
-- Contributor: Apache Tajo
+- Committer: [Apache Spark](https://spark.apache.org)
+- Committer: [Apache ORC](https://orc.apache.org)
+- Committer and PMC Member: [Apache REEF](https://reef.apache.org)
+- Contributor: [Google TensorFlow](https://www.tensorflow.org)
+- Contributor: [Apache Tajo](https://tajo.apache.org)
