@@ -1,4 +1,4 @@
-- Committer: [Apache Spark](https://spark.apache.org)
+- Committer and PMC Member: [Apache Spark](https://spark.apache.org)
 - Committer: [Apache ORC](https://orc.apache.org)
 - Committer and PMC Member: [Apache REEF](https://reef.apache.org)
 - Contributor: [Google TensorFlow](https://www.tensorflow.org)
