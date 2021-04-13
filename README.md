@@ -2,4 +2,3 @@
 - PMC Member and Committer: [Apache ORC](https://orc.apache.org)
 - PMC Member and Committer: [Apache REEF](https://reef.apache.org)
 - Contributor: [Google TensorFlow](https://www.tensorflow.org)
-- Contributor: [Apache Tajo](https://tajo.apache.org)
