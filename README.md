@@ -1,4 +1,4 @@
-- [V.P. and Chair of Apache ORC](https://www.apache.org/foundation/): [Apache ORC](https://orc.apache.org)
+- [V.P. and Chair of Apache ORC](https://www.apache.org/foundation/#pmc-chairs): [Apache ORC](https://orc.apache.org)
 - PMC Member and Committer: [Apache Spark](https://spark.apache.org)
 - PMC Member and Committer: [Apache REEF](https://reef.apache.org)
 - Contributor: [Google TensorFlow](https://www.tensorflow.org)
